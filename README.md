@@ -1,2 +1,3 @@
 # python-core-util
-A useful python extension library to use in your project
+
+A useful python library that contains a lot of the common operations in Python
