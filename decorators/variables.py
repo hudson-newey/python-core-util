@@ -1,0 +1,2 @@
+def const(variable):
+    pass
